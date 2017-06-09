@@ -1,0 +1,2 @@
+add_lunch_combo omni_sagit-eng
+add_lunch_combo omni_sagit-userdebug
