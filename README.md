@@ -1,9 +1,13 @@
-TWRP device configuration for Xiaomi Mi 6
-==============
+# android_device_xiaomi_sagit
+Tree for building TWRP for Xiaomi MI 6
 
-The Xiaomi Mi 6 (codenamed _"sagit"_) is a high-end smartphone from Xiaomi.
+## To compile
 
-It was announced and released in April 2017.
+export ALLOW_MISSING_DEPENDENCIES=true
+
+. build/envsetup.sh && lunch omni_sagit-eng
+
+mka adbd recoveryimage
 
 ## Device specifications
 
