@@ -1,0 +1,8 @@
+[
+  {
+    "remote": "github",
+    "repository": "LineageOS/android_kernel_xiaomi_msm8998",
+    "target_path": "kernel/xiaomi/msm8998",
+    "revision": "lineage-16.0"
+  }
+]
